@@ -12,5 +12,7 @@ Work done while reading the Twilio blog article [A Guide to Node.js Logging](htt
 ## Author
 
 [Jacob Biehler](https://www.linkedin.com/in/jacob-biehler-475573139/)
+
 [Twitter](https://twitter.com/Biehlerj)
+
 [GitHub](https://github.com/biehlerj)
